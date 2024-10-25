@@ -14,4 +14,6 @@ int main() {
 
     int nombre = afficher(tbl, n);
     printf("Le plus grand nombre est %d.", nombre);
+
+    return 0;
 }
