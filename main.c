@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "functions.h"
-#define taille 100
 
 int main() {
     int tbl[taille] = { 0 };
