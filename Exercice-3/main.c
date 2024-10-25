@@ -8,4 +8,6 @@ int main() {
     remplir(tbl_2d);
     transformer(tbl_2d, tbl_1d);
     afficher(tbl_1d);
+
+    return 0;
 }
