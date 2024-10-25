@@ -8,4 +8,4 @@ void remplir(int tbl[tailleTbl1][tailleTbl2]);
 void transformer(int tbl1[tailleTbl1][tailleTbl2], int tbl2[tailleTbl3]);
 void afficher(int tbl[tailleTbl3]);
 
-#endif FUNCTIONS.H
+#endif //FUNCTIONS.H
