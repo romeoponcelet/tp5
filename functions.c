@@ -12,10 +12,10 @@ void remplir(int tbl[taille], int n) {
     }
 }
 
-int afficher(int tbl[taille]) {
+int afficher(int tbl[taille], int n) {
     int maximum = tbl[0];
 
-    for (int i = 0; i < taille; i++) {
+    for (int i = 0; i < n; i++) {
         if (tbl[i] > maximum) {
             maximum = tbl[i];
         }

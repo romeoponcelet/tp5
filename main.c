@@ -13,6 +13,6 @@ int main() {
 
     remplir(tbl, n);
 
-    int nombre = afficher(tbl);
+    int nombre = afficher(tbl, n);
     printf("Le plus grand nombre est %d.", nombre);
 }
