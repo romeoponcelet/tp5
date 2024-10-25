@@ -1,6 +1,5 @@
 #include "functions.h"
 #include <stdio.h>
-#define taille 100
 
 void remplir(int tbl[taille], int n) {
     int a;
